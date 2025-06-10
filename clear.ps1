@@ -1,5 +1,5 @@
 # Add your file path to your The Witness save folder.
-$path = ""
+$path = Get-Content -Path "$PSScriptRoot\filepath"
 
 # Clear all files inside of the save folder.
 $files = Get-ChildItem -Path $path

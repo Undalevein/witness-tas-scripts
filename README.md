@@ -19,3 +19,7 @@ Witas does not have any save states, so for files in the `saves` folder, I saved
 |        File Name        |                                     Description                                             |
 |:-----------------------:|:--------------------------------------------------------------------------------------------|
 | desert.witness_campaign | Begin in Desert Elevator with both latches activated, directly in front of the laser panel. |
+
+## PowerShell Clear
+
+Assuming you have PowerShell, you can clear the files inside of The Witness save folder (and adding/readding premade saves into the folder) by first creating a new file, then adding the path to the saves folder. Afterwards, type `.\clear.ps1` into PowerShell.

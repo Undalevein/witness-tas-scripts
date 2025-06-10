@@ -1,0 +1,21 @@
+Syntax:
+digit := [0123456789]
+[+]?{digit}+>[Uu]?[Dd]?[Ll]?[Rr]?[Ss]?[Pp]|-?{digit}+ -?{digit}+|-?{digit}+ -?{digit}+ -?{digit}+ -?{digit}+ -?{digit}+
+
+Command:
+[Tick to Activate]>{Player Inputs}|<Relative Mouse X> <Relative Mouse Y>
++[Tick after Previous]>{Player Inputs}|<Relative Mouse X> <Relative Mouse Y>
+
+Player Inputs:
+U - Hold up
+u - Release up
+D - Hold down
+d - Release down
+L - Hold left
+l - Release left
+R - Hold right
+r - Release right
+S - Toggle on sprint
+S - Toggle off sprint
+P - Enter focus mode (left click)
+p - Leave focus mode (right click)

@@ -1,0 +1,24 @@
+version 0
+start save desert.witness_campaign
+
+// this tas was made with the following parameters:
+// res: 1080p
+// fov: 84 (default)
+// fps: 60
+
+//////////////////////////////////////
+// Quarry 
+//////////////////////////////////////
+
+// Opener: DO NOT INCLUDE IN FINAL VERSION
++1>P|0 0
++1>|0 -400
++1>P|0 0
++1>|1000 1000
++2>P|0 0
++10>|0 0
+
+// Go to Quarry Door 1
++10>|-10 0
++110>SU|0 0
++1>|0 0

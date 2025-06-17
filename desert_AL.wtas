@@ -241,7 +241,7 @@ start save desert.witness_campaign
 +1>|0 0
 +11>P|0 0
 +1>|0 0
-+1>|0 1000
++1>|0 1000   // This is where the TAS is attempting to clip through the railing.
 +100>P|0 0
 +1>p|0 0
 

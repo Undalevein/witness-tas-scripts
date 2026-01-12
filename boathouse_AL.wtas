@@ -1,0 +1,36 @@
+version 0
+start save boathouse.witness_campaign
+
+// this tas was made with the following parameters:
+// res: 1080p
+// fov: 84 (default)
+// fps: 60
+
+//////////////////////////////////////
+// Treehouse 
+//////////////////////////////////////
+
+// Opener: DO NOT INCLUDE IN FINAL VERSION
++1>P|0 0
++1>|0 -150
++1>P|0 0
++1>|600 -100
++4>|200 -300
++9>|-200 -10
++3>P|0 0
++2>P|0 0
++1>|0 -100
++1>P|0 0
++1>|600 -100
++4>|200 -300
++13>|-200 0
++1>|0 100
++1>P|0 0
++2>P|290 -270
+
+
+//////////////////////////////////////
+
+// Closures
++1>|0 0
++100>|0 0

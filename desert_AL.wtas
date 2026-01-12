@@ -241,12 +241,15 @@ start save desert.witness_campaign
 +1>|0 0
 +11>P|0 0
 +1>|0 0
-+1>|0 1000   // This is where the TAS is attempting to clip through the railing.
-+100>P|0 0
-+1>p|0 0
++1>|-2 10   // This is where the TAS is attempting to clip through the railing.
++1>|-5 11
++1>|-7 12
++1>|-8 20
++1>|100 200
++1>P|0 0
 
 //////////////////////////////////////
 
 // Closures
-//+1>|0 0
-//+100>|0 0
++1>|0 0
++100>|0 0
